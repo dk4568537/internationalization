@@ -1,0 +1,154 @@
+{
+    "header": {
+      "login": "لاگ ان",
+      "downloadApp": "ایپ ڈاؤن لوڈ کریں",
+      "Subscribe": "سبسکرائب کریں"
+    },
+    "searchModal": {
+      "searchPlaceholderType": "Search Audio Video Movie Artist...",
+      "topTrending": "Top Trending"
+    },
+  
+    "subscribe": {
+      "unSubscribe": "ان سبسکرائب",
+      "staysubscribed": "سبسکرائب رہیں"
+    },
+  
+    "unsubscribe": {
+      "thank_you": "شکریہ !!!",
+      "done": "مکمل"
+    },
+  
+    "profile": {
+      "profile": "پروفائل",
+      "preferences": "ترجیحات",
+      "logout": "لاگ آوٹ"
+    },
+  
+    "editPrfile": {
+      "editProfile": "پروفائل میں ترمیم کریں",
+      "fullname": "پورا نام",
+      "fullnamePlaceholder": "پورا نام",
+      "username": "صارف نام",
+      "usernamePlaceholder": "صارف نام",
+      "email": "ای میل",
+      "emailPlaceholder": "ای میل",
+      "gender": "صنف",
+      "genderPlaceholder": "صنف",
+      "dateOfBrith": "پیدائش کی تاریخ",
+      "dateOfBrithPlaceholder": "پیدائش کی تاریخ",
+      "mobileNnumber": "موبائل نمبر",
+      "mobileNnumberPlaceholder": "موبائل نمبر",
+      "save": "محفوظ کریں"
+    },
+  
+    "preferences": {
+      "Choose_Your_Language_and_Start_Listening_to_Your_Favorite_Songs": "اپنی زبان منتخب کریں اور اپنے پسندیدہ گانے سننا شروع کریں",
+      "skip": "چھوڑیں",
+      "continue": "جاری رکھیں"
+    },
+  
+    "skip": {
+      "pickYourGenere": "اپنی صنف منتخب کریں",
+      "selectArtists": "اپنے پسندیدہ فنکاروں کا انتخاب کریں اور ان کے تازہ ترین ہٹ گانے سنیں"
+    },
+  
+    "sidebar": {
+      "home": "ہوم",
+      "myLibrary": "میری لائبریری",
+      "language": "زبان",
+      "artists": "فنکار",
+      "blogs": "بلاگز",
+      "search": "تلاش"
+    },
+  
+    "myLabrary": {
+      "audio": "آڈیو",
+      "video": "ویڈیو",
+      "movie": "مووی"
+    },
+  
+    "audio": {
+      "myPlaylist": "میری پلے لسٹ",
+      "myAlbums": "میرے البمز",
+      "myArtists": "میرے فنکار",
+      "mySongs": "میرے گانے",
+      "downloads": "ڈاؤن لوڈز",
+      "recentlyPlayed": "حال ہی میں چلایا گیا"
+    },
+  
+    "myPlaylist": {
+      "pleaseSubscribeTooUsePlaylistFuture": "پلے لسٹ فیچر استعمال کرنے کے لیے سبسکرائب کریں"
+    },
+  
+    "video": {
+      "myVideos": "میری ویڈیوز",
+      "watchLater": "بعد میں دیکھیں",
+      "downloads": "ڈاؤن لوڈز"
+    },
+  
+    "movie": {
+      "myMovie": "میری مووی",
+      "watchLater": "بعد میں دیکھیں",
+      "downloads": "ڈاؤن لوڈز",
+      "recentlyWatched": "حال ہی میں دیکھی گئی"
+    },
+  
+    "videoHome": {
+      "likes": "پسند",
+      "views": "دیکھے گئے",
+      "shares": "شیئرز",
+      "watchLatter": "بعد میں دیکھیں",
+      "download": "ڈاؤن لوڈ"
+    },
+  
+    "aboutVideo": {
+      "duration": "دورانیہ",
+      "language": "زبان"
+    },
+  
+    "home": {
+      "AUDIO": "آڈیو",
+      "VIDEO": "ویڈیو",
+      "MOVIE": "مووی",
+      "SHORTS": "شارٹس"
+    },
+  
+    "topSongs": {
+      "top10Hits": "ٹاپ 10 ہٹس",
+      "treandingMusic": "ٹرینڈنگ میوزک",
+      "viewAll": "سب دیکھیں",
+      "loadMore": "مزید لوڈ کریں"
+    },
+  
+    "footer": {
+      "about": "ہمارے بارے میں",
+      "DMCA": "DMCA",
+      "FAQ": "اکثر پوچھے جانے والے سوالات",
+      "policy": "پالیسی",
+      "Terms": "شرائط",
+      "blogs": "بلاگز",
+      "poweredByMobitising": "موبیٹائزنگ کے ذریعے فراہم کردہ"
+    },
+  
+    "about": {
+      "aboutUs": "ہمارے بارے میں"
+    },
+  
+    "DMCA": {
+      "DMCAPolicy": "DMCA پالیسی"
+    },
+  
+    "FAQ": {
+      "faq": "اکثر پوچھے جانے والے سوالات"
+    },
+  
+    "policy": {
+      "privacyPolicy": "رازداری کی پالیسی"
+    },
+  
+    "terms": {
+      "termsOfService": "خدمات کی شرائط"
+    }
+  }
+  

@@ -1,0 +1,150 @@
+{
+  "Header": {
+    "login": "Login",
+    "downloadApp": "Download App",
+    "Subscribe": "Subscribe"
+  },
+
+  "Subscribe": {
+    "unSubscribe": "Unsubscribe",
+    "stay_subscribed": "Stay Subscribed"
+  },
+
+  "Unsubscribe": {
+    "thank_you": "Thank You !!!",
+    "done": "Done"
+  },
+
+  "Profile": {
+    "profile": "Profile",
+    "preferences": "Preferences",
+    "logout": "Logout"
+  },
+
+  "Edit_Prfile": {
+    "edit profile": "Edit Profile",
+    "Placeholder": "Edit Profile",
+    "fullname": "Fullname",
+    "Placeholder": "Fullname",
+    "username": "Username",
+    "Placeholder": "Username",
+    "email": "Email",
+    "Placeholder": "Email",
+    "gender": "Gender",
+    "Placeholder": "Gender",
+    "date of brith": "Date Of Brth",
+    "Placeholder": "Date Of Brth",
+    "mobile number": "Mobile Number",
+    "Placeholder": "Mobile Number",
+    "save": "Save"
+  },
+
+  "Preferences": {
+    "Choose_Your_Language_and_Start_Listening_to_Your_Favorite_Songs": "Choose Your Language and Start Listening to Your Favorite Songs",
+    "skip": "skip",
+    "continue": "Continue"
+  },
+
+  "Skip": {
+    "pick_your_genere": "Pick Your Genere",
+    "Select_Your_Favorite_Artists_and_Stream_Their_Latest_Hits_Now": "Select Your Favorite Artists and Stream Their Latest Hits Now"
+  },
+
+  "Sidebar": {
+    "Home": "Home",
+    "MyLibrary": "My Library",
+    "Language": "Language",
+    "Artists": "Artists",
+    "Blogs": "Blogs",
+    "Search": "Search"
+  },
+
+  "My_Labrary": {
+    "audio": "Audio",
+    "video": "Video",
+    "movie": "Movie"
+  },
+
+  "Audio": {
+    "my_playlist": "My Plalist",
+    "my_albums": "My Albums",
+    "my_artists": "My Artists",
+    "my_songs": "My Songs",
+    "downloads": "Downloads",
+    "recently_played": "Recently Played"
+  },
+
+  "my_playlist": {
+    "please_subscribe_to _use_playlist_future": "Please Subscribe To Use Playlist Feature"
+  },
+
+  "video": {
+    "my_videos": "My Videos",
+    "watch_later": "Watch Latter",
+    "downloads": "Downloads"
+  },
+
+  "movie": {
+    "my_movie": "My Movie",
+    "watch_later": "Watch Latter",
+    "downloads": "Downloads",
+    "recently_watched": "Recently watched"
+  },
+
+  "Video": {
+    "likes": "likes",
+    "views": "views",
+    "shares": "shares",
+    "watch_latter": "Watch Latter",
+    "download": "Download"
+  },
+
+  "about_video": {
+    "duration": "Duretion",
+    "language": "Language"
+  },
+
+  "home": {
+    "AUDIO": "AUDIO",
+    "VIDEO": "VIDEO",
+    "MOVIE": "MOVIE",
+    "SHORTS": "SHORTS"
+  },
+
+  "Top_Songs": {
+    "top_10_hits": "Top 10 Hits",
+    "Treanding Music": "Treanding Music",
+    "view_all": "View All",
+    "load_more": "Load More"
+  },
+
+  "footer": {
+    "about": "about",
+    "DMCA": "DMCA",
+    "FAQ": "FAQ",
+    "Policy": "Policy",
+    "TERMS": "TERMS",
+    "BLOGS": "BLOGS",
+    "powered_by_mobitising": "Powered By Mobitising"
+  },
+
+  "about": {
+    "about_us": "About us"
+  },
+
+  "DMCA": {
+    "DMCA_Policy": "DMCA Policy"
+  },
+
+  "FAQ": {
+    "FAQ": "FAQ s"
+  },
+
+  "Policy": {
+    "privacy_policy": "Privacy Policy"
+  },
+
+  "Terms": {
+    "Terms_of_service": "Terms of service"
+  }
+}
